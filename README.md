@@ -81,5 +81,4 @@
 
 ☑️ Intégration d’un **éditeur live**
   
-👨‍💻 Développé par **trhacknon** 🛠️ 💬 **Suggestions & améliorations ?** Ouvre une issue sur GitHub ! 🚀
-  
+👨‍💻 Développé par **trhacknon** 
