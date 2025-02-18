@@ -1,0 +1,4 @@
+pillow
+tk
+colorama
+pysftp
