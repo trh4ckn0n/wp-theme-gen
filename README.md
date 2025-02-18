@@ -4,7 +4,17 @@
  
 ## 📌 Fonctionnalités
  
-✅ Interface graphique intuitive avec **Tkinter** ✅ Personnalisation complète : **nom du thème, couleurs, polices, CSS, structure** ✅ Génération automatique des fichiers WordPress : `style.css`, `index.php`, `functions.php` ✅ **Upload FTP intégré** pour envoyer le thème directement sur un serveur ✅ Gestion des **prévisualisations et templates** ✅ Option pour **sauvegarder et charger des configurations**
+✅ Interface graphique intuitive avec **Tkinter** 
+
+✅ Personnalisation complète : **nom du thème, couleurs, polices, CSS, structure** 
+
+✅ Génération automatique des fichiers WordPress : `style.css`, `index.php`, `functions.php` 
+
+✅ **Upload FTP intégré** pour envoyer le thème directement sur un serveur 
+
+✅ Gestion des **prévisualisations et templates** 
+
+✅ Option pour **sauvegarder et charger des configurations**
   
 ## 🚀 Installation
  
@@ -65,7 +75,11 @@
 
 ## 🔥 À venir
  
-☑️ Support de **SFTP & FTP sécurisé** ☑️ Sélection de **templates préconçus** ☑️ Intégration d’un **éditeur live**
+☑️ Support de **SFTP & FTP sécurisé** 
+
+☑️ Sélection de **templates préconçus** 
+
+☑️ Intégration d’un **éditeur live**
   
 👨‍💻 Développé par **trhacknon** 🛠️ 💬 **Suggestions & améliorations ?** Ouvre une issue sur GitHub ! 🚀
   
